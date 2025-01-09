@@ -5,4 +5,9 @@ public class Class1
     {
         this.name = name;
     }
+
+    public string Name 
+    {
+        get { return name; }
+    }
 }
